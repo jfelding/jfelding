@@ -1,6 +1,5 @@
 # Jacob Ungar Felding
 <div style="display: flex; align-items: center;">
-  <img src="picture.jpeg" alt="Profile Picture" width="100" />
   <div style="margin-left: 10px; flex-grow: 1;">
     <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jacob-ungar-felding/">jacob-ungar-felding</a><br>
     <strong>GitHub:</strong> <a href="https://github.com/jfelding">jfelding</a>
